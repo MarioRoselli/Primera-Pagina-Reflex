@@ -1,0 +1,36 @@
+h1 {
+    font-size: 48px;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 15px;
+    padding: 20px;
+    margin: 0;
+}
+
+p {
+    font-size: 25px;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.parte-uno {
+    padding: 3%;
+    width: auto;
+    background-color: khaki;
+    border: solid 20px darkgoldenrod
+}
+
+body {
+
+    background-color: seagreen;
+}
+
+img {
+    text-align: auto;
+    width: 460px;
+    height: 600px;
+
+}
